@@ -138,10 +138,19 @@ h3{
 #dayPlannerlin{
     text-align: center;
 }
+
 .row2{
     text-align: center;
-    display: table;
+    display: flex;
     line-height: 10%;
+}
+#column1,
+#column2,
+#column3,
+#column4,
+#column5{
+    display:table;
+    width: 50%;
 }
 /*attributes for the contact me icons*/
 .fa {
