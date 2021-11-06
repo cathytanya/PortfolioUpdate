@@ -5,7 +5,7 @@ Updating the portfolio application is important.
 It will make sure that it will be ready to present to potential employers following graduation.
 It should demonstrate what individuals have learned in the class.
 
-## Link: https://cathytanya.github.io/PortfolioUpdated/
+## Link: https://cathytanya.github.io/PortfolioUpdate/
 
 ## Critieria
 - Display contact information
